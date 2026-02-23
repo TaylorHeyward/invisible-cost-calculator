@@ -1,4 +1,5 @@
-🔗 Live App: https://taylorheyward-invisible-cost-calculator-app-aomdjd.streamlit.app/ 
+🔗 Live App: https://taylorheyward-invisible-cost-calculator-app-lhkloy.streamlit.app 
+
 The Invisible Cost Calculator is a visual tool that reveals the hidden social, environmental, and human costs behind everyday “cheap” decisions, making tradeoffs visible rather than invisible.
 
 This project helps analysts, product teams, and policy makers explore how decisions that look financially cheap today can impose larger, often unseen costs over time. It combines scenario modelling, score-based allocation, and fast Monte Carlo sampling to quantify a simple, interpretable "hidden cost" metric and show its distribution across plausible futures.
